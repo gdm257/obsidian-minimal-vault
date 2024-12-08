@@ -41,3 +41,6 @@
 | Tag Wrangler     | Properties | ✅               | Rename tag                                     |                                                         |
 | TagsFolder       | Properties | ✅               | Note explorer by tags                          |                                                         |
 | Tags Overview    | Properties | ✅               | Note explorer by tags                          |                                                         |
+| MathLive         | Math       | ❌               | Input math formula without LaTeX knowledge     |                                                         |
+| Latex Suite      | Math       | ❌               | Preview LaTeX                                  |                                                         |
+| Completr         | Math       | ❌               | Autocomplete `\` LaTeX macros                  |                                                         |
