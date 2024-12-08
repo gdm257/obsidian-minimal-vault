@@ -65,6 +65,21 @@
       ],
       "groupIds": [],
       "generateCommands": true
+    },
+    {
+      "loadAtStartup": false,
+      "disableOnStartup": false,
+      "delay": 2,
+      "id": "pgimageplugins",
+      "name": "Image Plugins",
+      "plugins": [
+        {
+          "id": "obsidian-image-toolkit",
+          "name": "Image Toolkit"
+        }
+      ],
+      "groupIds": [],
+      "generateCommands": true
     }
   ],
   "generateCommands": true,

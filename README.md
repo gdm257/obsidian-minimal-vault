@@ -31,7 +31,7 @@
 
 ## Community plugins
 
-| Plugin           | Group      | Auto enable     | Description                                    | Alternatives                                            |
+| Plugin           | Group      | Auto enable     | Idea                                           | Alternatives                                            |
 | ---------------- | ---------- | --------------- | ---------------------------------------------- | ------------------------------------------------------- |
 | Plugin Groups    |            | Manually enable | Grouping plugins and auto enable these plugins | `Settings - Community plugins - Manually toggle button` |
 | Multi Properties | Properties | ✅               | Add/remove properties for multiple notes       |                                                         |
@@ -44,3 +44,4 @@
 | MathLive         | Math       | ❌               | Input math formula without LaTeX knowledge     |                                                         |
 | Latex Suite      | Math       | ❌               | Preview LaTeX                                  |                                                         |
 | Completr         | Math       | ❌               | Autocomplete `\` LaTeX macros                  |                                                         |
+| Image Toolkit    | Image      | ❌               | View image                                     |                                                         |
