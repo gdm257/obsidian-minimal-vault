@@ -14,3 +14,9 @@
 | `Alt+Up`   | Move line up                                                         |
 | `Alt+Down` | Move line down                                                       |
 | `Ctrl+E`   | Toggle Live Preview/Source mode. Because reading mode is unnecessary |
+
+## Recommended themes
+
+Dark themes:
+
+- Wombat
