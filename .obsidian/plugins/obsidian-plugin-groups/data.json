@@ -130,6 +130,10 @@
         {
           "id": "obsidian-hider",
           "name": "Hider"
+        },
+        {
+          "id": "obsidian-basetag",
+          "name": "Base Tag Renderer"
         }
       ],
       "groupIds": [],
