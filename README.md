@@ -31,6 +31,13 @@
 
 ## Community plugins
 
-| Plugin        | Group | Auto enable     | Description                                    | Alternatives                                   |
-| ------------- | ----- | --------------- | ---------------------------------------------- | ---------------------------------------------- |
-| Plugin Groups | -     | Manually enable | Grouping plugins and auto enable these plugins | `Settings - Community plugins - Toggle button` |
+| Plugin           | Group      | Auto enable     | Description                                    | Alternatives                                            |
+| ---------------- | ---------- | --------------- | ---------------------------------------------- | ------------------------------------------------------- |
+| Plugin Groups    |            | Manually enable | Grouping plugins and auto enable these plugins | `Settings - Community plugins - Manually toggle button` |
+| Multi Properties | Properties | ✅               | Add/remove properties for multiple notes       |                                                         |
+| FuzzyTag         | Properties | ✅               | Frontmatter autocomplete in source mode        | Obsidian comes with autocomplete in live preview mode   |
+| Quick Tagger     | Properties | ✅               | Add/remove tags for multiple notes             |                                                         |
+| TagsMany         | Properties | ✅               | Add/remove tags for multiple notes             |                                                         |
+| Tag Wrangler     | Properties | ✅               | Rename tag                                     |                                                         |
+| TagsFolder       | Properties | ✅               | Note explorer by tags                          |                                                         |
+| Tags Overview    | Properties | ✅               | Note explorer by tags                          |                                                         |

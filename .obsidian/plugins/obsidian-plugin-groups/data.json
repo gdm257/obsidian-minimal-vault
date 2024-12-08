@@ -1,5 +1,49 @@
 {
-  "groups": [],
+  "groups": [
+    {
+      "loadAtStartup": true,
+      "disableOnStartup": false,
+      "delay": 0,
+      "id": "pgtagandproperties",
+      "name": "Properties",
+      "plugins": [
+        {
+          "id": "multi-tag",
+          "name": "Multi Tag"
+        },
+        {
+          "id": "quick-tagger",
+          "name": "Quick Tagger"
+        },
+        {
+          "id": "tag-wrangler",
+          "name": "Tag Wrangler"
+        },
+        {
+          "id": "tags-overview",
+          "name": "Tags Overview"
+        },
+        {
+          "id": "obsidian-tagfolder",
+          "name": "TagFolder"
+        },
+        {
+          "id": "obsidian-fuzzytag",
+          "name": "FuzzyTag"
+        },
+        {
+          "id": "multi-properties",
+          "name": "Multi Properties"
+        },
+        {
+          "id": "tag-many",
+          "name": "TagMany"
+        }
+      ],
+      "groupIds": [],
+      "generateCommands": false
+    }
+  ],
   "generateCommands": true,
   "showNoticeOnGroupLoad": "none",
   "devLogs": false,
