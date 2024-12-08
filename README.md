@@ -7,14 +7,6 @@
 	- I took thousands of notes and tried hundreds of plugins. Finally, I realize that there is no need to install so much 3rd plugins. Only about **10** third-party plugins must be installed, other plugins are unnecessary to write down the thousands of notes, or are extremely simple to use
 	- So I create this minimal obsidian vault
 
-## Core plugins
-
-| Core Plugin   | Enable/Disable | Description                                                                                                                                          |
-| ------------- | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| canvas        | ❌              | alternatives to [excalidraw](https://github.com/zsviczian/obsidian-excalidraw-plugin) or [draw.io](https://github.com/jensmtg/obsidian-diagrams-net) |
-| slash-command | ✅              |                                                                                                                                                      |
-| workspaces    | ✅              |                                                                                                                                                      |
-
 ## Hotkeys
 
 | Hotkey     | Description                                                          |
@@ -28,3 +20,17 @@
 | Name   | Light/Dark |
 | ------ | ---------- |
 | Wombat | 🌙         |
+
+## Core plugins
+
+| Core Plugin   | Enable/Disable | Description                                                                                                                                          |
+| ------------- | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| canvas        | ❌              | alternatives to [excalidraw](https://github.com/zsviczian/obsidian-excalidraw-plugin) or [draw.io](https://github.com/jensmtg/obsidian-diagrams-net) |
+| slash-command | ✅              |                                                                                                                                                      |
+| workspaces    | ✅              |                                                                                                                                                      |
+
+## Community plugins
+
+| Plugin        | Group | Auto enable     | Description                                    | Alternatives                                   |
+| ------------- | ----- | --------------- | ---------------------------------------------- | ---------------------------------------------- |
+| Plugin Groups | -     | Manually enable | Grouping plugins and auto enable these plugins | `Settings - Community plugins - Toggle button` |
