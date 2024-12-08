@@ -1,11 +1,12 @@
-# Obsidian Vault
+# Changelog
 
 ## Core plugins
 
-- ~~canvas~~: please use [excalidraw](https://github.com/zsviczian/obsidian-excalidraw-plugin) or [diagrams.net aka draw.io](https://github.com/jensmtg/obsidian-diagrams-net)
-- properties
-- slash-command
-- workspaces
+| Core Plugin   | Enable/Disable | Description                                                                                                                                          |
+| ------------- | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| canvas        | ❌              | alternatives to [excalidraw](https://github.com/zsviczian/obsidian-excalidraw-plugin) or [draw.io](https://github.com/jensmtg/obsidian-diagrams-net) |
+| slash-command | ✅              |                                                                                                                                                      |
+| workspaces    | ✅              |                                                                                                                                                      |
 
 ## Hotkeys
 
@@ -17,6 +18,6 @@
 
 ## Recommended themes
 
-Dark themes:
-
-- Wombat
+| Name   | Light/Dark |
+| ------ | ---------- |
+| Wombat | 🌙         |
