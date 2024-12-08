@@ -107,6 +107,29 @@
       ],
       "groupIds": [],
       "generateCommands": true
+    },
+    {
+      "loadAtStartup": false,
+      "disableOnStartup": false,
+      "delay": 2,
+      "id": "pgeditingplugins",
+      "name": "Editing Plugins",
+      "plugins": [
+        {
+          "id": "obsidian-style-settings",
+          "name": "Style Settings"
+        },
+        {
+          "id": "cm-chs-patch",
+          "name": "Word Splitting for Simplified Chinese in Edit Mode and Vim Mode"
+        },
+        {
+          "id": "tray",
+          "name": "Tray"
+        }
+      ],
+      "groupIds": [],
+      "generateCommands": true
     }
   ],
   "generateCommands": true,

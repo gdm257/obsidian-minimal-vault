@@ -48,3 +48,5 @@
 | Latex Suite      | ❌           | Math       | Preview LaTeX                                  |                                                         |
 | Completr         | ❌           | Math       | Autocomplete `\` LaTeX macros                  |                                                         |
 | Image Toolkit    | ❌           | Image      | View image                                     |                                                         |
+| Style Settings   | ❌           | Editing    | Config for many themes                         |                                                         |
+| Tray             | ❌           | Editing    | Close Obsidian to tray bar                     |                                                         |
