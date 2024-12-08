@@ -6,3 +6,10 @@
 - [x] properties
 - [x] slash-command
 - [x] workspaces
+
+## Hotkeys
+
+| Hotkey     | Description    |
+| ---------- | -------------- |
+| `Alt+Up`   | Move line up   |
+| `Alt+Down` | Move line down |
