@@ -80,6 +80,33 @@
       ],
       "groupIds": [],
       "generateCommands": true
+    },
+    {
+      "loadAtStartup": true,
+      "disableOnStartup": false,
+      "delay": 0,
+      "id": "pgdiagramsplugins",
+      "name": "Diagrams Plugins",
+      "plugins": [
+        {
+          "id": "obsidian-diagrams-net",
+          "name": "Diagrams.net"
+        },
+        {
+          "id": "obsidian-excalidraw-plugin",
+          "name": "Excalidraw"
+        },
+        {
+          "id": "d2-obsidian",
+          "name": "D2"
+        },
+        {
+          "id": "obsidian-kroki",
+          "name": "Kroki"
+        }
+      ],
+      "groupIds": [],
+      "generateCommands": true
     }
   ],
   "generateCommands": true,
