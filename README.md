@@ -3,20 +3,30 @@
 ## Philosophy
 
 1. Low-code & Out of the box
+	- No Code, No Learn, Just Use
+	- TL;DR
 	- Use native *Search* plugin instead of [dataview](https://github.com/blacksmithgu/obsidian-dataview) or similar query plugin. Obsidian Search provides syntax prompts without memory requirements
 	- Use *properties* instead of `::` dataview-style fields. Properties are note-scoped/file-scoped/node-scoped; inline fields are block-scoped/line-scoped/content-scoped. The former is an implementation of **Graph Database**, which is easy to understand and extend (e.g. Static Site Generator)
 2. Minimal plugins and options
+	- Toooo much Plugins? No, just **10 simple plugins**
+	- (see auto enabled plugins below)
+	- TL;DR
 	- Newbies are always afraid of the learning curve and huge plugins ecosystem of [Obsidian](https://obsidian.md), but it actually DOES NOT exist
-	- I took thousands of notes and tried hundreds of plugins. Finally, I realize that there is no need to install so much 3rd plugins. Only about **10** third-party plugins must be installed, other plugins are unnecessary to write down the thousands of notes, or are extremely simple to use
-	- So I create this *minimal* obsidian vault
+	- I took thousands of notes and tried hundreds of plugins. Finally, I realize that there is no need to install so much 3rd plugins. Only about **10** third-party plugins must be installed, other plugins are unnecessary to write down the thousands of notes, or are extremely simple to use (if the amount of plugins increases, it's *natural and painless*)
+	- So I create this *minimal* obsidian vault, which meets my requirements to write done *thousands of* notes
+3. Graph Database
+	- Use *properties* instead of content(markdown) as more as possible
+	- Each note should be a *Node*(vertex) in graph database
+	- Content makes no sense for a *graph*
+	- On the contrary, properties can be node *attributions* or simulate *edges* in the graph
 
 ## Hotkeys
 
-| Hotkey     | Description                                                          |
-| ---------- | -------------------------------------------------------------------- |
-| `Alt+Up`   | Move line up                                                         |
-| `Alt+Down` | Move line down                                                       |
-| `Ctrl+E`   | Toggle Live Preview/Source mode. Because reading mode is unnecessary |
+| Hotkey     | Description                                                                 |
+| ---------- | --------------------------------------------------------------------------- |
+| `Alt+Up`   | Move line up                                                                |
+| `Alt+Down` | Move line down                                                              |
+| `Ctrl+E`   | Toggle Live Preview/Source mode. Because reading mode is almost unnecessary |
 
 ## Recommended themes
 
