@@ -31,22 +31,23 @@
 
 ## Community plugins
 
-| Plugin           | Auto enable | Group      | Idea                                           | Alternatives                                            |
-| ---------------- | ----------- | ---------- | ---------------------------------------------- | ------------------------------------------------------- |
-| Plugin Groups    | ✔           |            | Grouping plugins and auto enable these plugins | `Settings - Community plugins - Manually toggle button` |
-| Multi Properties | ✅           | Properties | Add/remove properties for multiple notes       |                                                         |
-| FuzzyTag         | ✅           | Properties | Frontmatter autocomplete in source mode        | Obsidian comes with autocomplete in live preview mode   |
-| Quick Tagger     | ✅           | Properties | Add/remove tags for multiple notes             |                                                         |
-| TagsMany         | ✅           | Properties | Add/remove tags for multiple notes             |                                                         |
-| Tag Wrangler     | ✅           | Properties | Rename tag                                     |                                                         |
-| TagsFolder       | ✅           | Properties | Note explorer by tags                          |                                                         |
-| Tags Overview    | ✅           | Properties | Note explorer by tags                          |                                                         |
-| Diagrams.net     | ✅           | Diagrams   | Whiteboard                                     |                                                         |
-| Excalidraw       | ✅           | Diagrams   | Whiteboard                                     |                                                         |
-| Kroki            | ✅           | Diagrams   | DSL diagrams in markdown fenced block          |                                                         |
-| MathLive         | ❌           | Math       | Input math formula without LaTeX knowledge     |                                                         |
-| Latex Suite      | ❌           | Math       | Preview LaTeX                                  |                                                         |
-| Completr         | ❌           | Math       | Autocomplete `\` LaTeX macros                  |                                                         |
-| Image Toolkit    | ❌           | Image      | View image                                     |                                                         |
-| Style Settings   | ❌           | Editing    | Config for many themes                         |                                                         |
-| Tray             | ❌           | Editing    | Close Obsidian to tray bar                     |                                                         |
+| Plugin           | Auto enable | Group      | Idea                                           | Alternatives                                                                     |
+| ---------------- | ----------- | ---------- | ---------------------------------------------- | -------------------------------------------------------------------------------- |
+| Plugin Groups    | ✔           |            | Grouping plugins and auto enable these plugins | `Settings - Community plugins - Manually toggle button`                          |
+| Multi Properties | ✅           | Properties | Add/remove properties for multiple notes       |                                                                                  |
+| FuzzyTag         | ✅           | Properties | Frontmatter autocomplete in source mode        | Obsidian comes with autocomplete in live preview mode                            |
+| Quick Tagger     | ✅           | Properties | Add/remove tags for multiple notes             |                                                                                  |
+| TagsMany         | ✅           | Properties | Add/remove tags for multiple notes             |                                                                                  |
+| Tag Wrangler     | ✅           | Properties | Rename tag                                     |                                                                                  |
+| TagsFolder       | ✅           | Properties | Note explorer by tags                          |                                                                                  |
+| Tags Overview    | ✅           | Properties | Note explorer by tags                          |                                                                                  |
+| Diagrams.net     | ✅           | Diagrams   | Whiteboard                                     |                                                                                  |
+| Excalidraw       | ✅           | Diagrams   | Whiteboard                                     | [excalidraw-ymjr](https://github.com/Bowen-0x00/obsidian-excalidraw-plugin-ymjr) |
+| Kroki            | ✅           | Diagrams   | DSL diagrams in markdown fenced block          |                                                                                  |
+| MathLive         | ❌           | Math       | Input math formula without LaTeX knowledge     |                                                                                  |
+| Latex Suite      | ❌           | Math       | Preview LaTeX                                  |                                                                                  |
+| Completr         | ❌           | Math       | Autocomplete `\` LaTeX macros                  |                                                                                  |
+| Image Toolkit    | ❌           | Image      | View image                                     |                                                                                  |
+| Hider            | ❌           | Editing    | Hide status bar etc                            |                                                                                  |
+| Style Settings   | ❌           | Editing    | Config for many themes                         |                                                                                  |
+| Tray             | ❌           | Editing    | Close Obsidian to tray bar                     |                                                                                  |

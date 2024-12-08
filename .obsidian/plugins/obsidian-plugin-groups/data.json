@@ -126,6 +126,10 @@
         {
           "id": "tray",
           "name": "Tray"
+        },
+        {
+          "id": "obsidian-hider",
+          "name": "Hider"
         }
       ],
       "groupIds": [],
