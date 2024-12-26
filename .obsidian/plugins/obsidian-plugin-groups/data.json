@@ -120,10 +120,6 @@
           "name": "Style Settings"
         },
         {
-          "id": "cm-chs-patch",
-          "name": "Word Splitting for Simplified Chinese in Edit Mode and Vim Mode"
-        },
-        {
           "id": "tray",
           "name": "Tray"
         },
@@ -134,6 +130,14 @@
         {
           "id": "obsidian-basetag",
           "name": "Base Tag Renderer"
+        },
+        {
+          "id": "obsidian-better-command-palette",
+          "name": "Better Command Palette"
+        },
+        {
+          "id": "cm-chs-patch",
+          "name": "Word Splitting for Simplified Chinese in Edit Mode and Vim Mode"
         }
       ],
       "groupIds": [],
