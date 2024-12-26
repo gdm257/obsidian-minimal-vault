@@ -132,12 +132,12 @@
           "name": "Base Tag Renderer"
         },
         {
-          "id": "obsidian-better-command-palette",
-          "name": "Better Command Palette"
-        },
-        {
           "id": "cm-chs-patch",
           "name": "Word Splitting for Simplified Chinese in Edit Mode and Vim Mode"
+        },
+        {
+          "id": "obsidian-better-command-palette",
+          "name": "Better Command Palette"
         }
       ],
       "groupIds": [],
